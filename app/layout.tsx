@@ -1,4 +1,4 @@
-import Providers from './Providers';
+import { Providers } from './Providers';
 
 export const metadata = {
   title: 'Next.js',
